@@ -37,5 +37,9 @@
 *.out
 *.app
 
+# Table
+*.xls
+*.xlsx
+
 # debug information files
 *.dwo
